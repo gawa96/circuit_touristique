@@ -9,13 +9,7 @@ package circuit_touristique;
  *
  * @author 14258
  */
-public class Circuit_touristique {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-    System.out.println("coucou");                
-    }
+public class Activity {
+    private String type_activity;
     
 }
